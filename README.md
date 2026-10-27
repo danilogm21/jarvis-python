@@ -1,12 +1,8 @@
-# # J.A.R.V.I.S. - Assistente Virtual Pessoal
+J.A.R.V.I.S. - Assistente Virtual Pessoal
 
-#
+Assistente virtual de voz desenvolvido em Python, equipado com uma interface gráfica holográfica interativa. O sistema opera de forma local utilizando reconhecimento de fala e síntese de voz integrada ao Windows.
 
-# Assistente virtual de voz desenvolvido em Python, equipado com uma interface gráfica holográfica interativa. O sistema opera de forma local utilizando reconhecimento de fala e síntese de voz integrada ao Windows.
-
-#
-
-# ## 🚀 Funcionalidades
+Funcionalidades
 
 # - Comandos de voz em português (`pt-BR`).
 
@@ -14,14 +10,10 @@
 
 # - Automação de tarefas (horas, YouTube, navegador, Bloco de Notas).
 
-#
+Instalação
 
-# ## 📦 Instalação
+pip install pyttsx3 SpeechRecognition pyaudio
 
-# pip install pyttsx3 SpeechRecognition pyaudio
+Como Executar
 
-#
-
-# ## ▶️ Como Executar
-
-# python jarvis.py
+python jarvis.py
