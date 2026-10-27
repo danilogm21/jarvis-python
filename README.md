@@ -8,7 +8,7 @@ Funcionalidades
 
 # - Interface gráfica (HUD) com orbe holográfico dinâmico que pulsa em sincronia com as falas.
 
-# - Automação de tarefas (horas, YouTube, navegador, Bloco de Notas).
+# - Automação de tarefas (Horas, YouTube, Navegador, Bloco de Notas).
 
 Instalação
 
